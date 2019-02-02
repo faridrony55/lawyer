@@ -1,0 +1,90 @@
+@media (max-width: 1499px){
+	.banner_section .row {
+    	min-height: 500px;
+	}
+	.banner_orange img {
+    width: 60%;
+}
+}
+ @media (max-width: 1199px){
+		.banner_section .row {
+    	min-height: 450px;
+	}
+	.banner_orange img {
+    width: 70%;
+}
+.what_we_do_bg img {
+    width: 70%;
+    float: right;
+}
+}
+
+ @media (max-width: 991px){
+		.banner_section .row {
+    	min-height: 400px;
+	}
+	.banner_orange img {
+    width: 80%;
+}
+.banner_section h1 {
+    font-size: 40px;
+    }
+    .what_we_do a {
+    bottom: 20px;
+}
+.what_we_do h3 {
+    font-size: 14px;
+    }
+    .attorney h2 { 
+    font-size: 14px;
+}
+.see_more{margin-bottom: 30px;display: block;}
+}
+
+ @media (max-width: 767px){
+ 		.banner_section .row {
+        min-height: 230px;
+}
+	.banner_orange img {
+        width: 60%;
+}
+.banner_section h1 {
+    font-size: 26px;
+}
+.arrow {
+    bottom: 30px;
+}
+.who_we_are_section .text-right{    text-align: center !important;}
+.who_we_are_section img {
+    width: 300px;
+}
+.what_we_do {
+    margin-bottom: 30px;
+    }
+    .see_more {
+    margin-bottom: 30px;
+    display: block;
+    text-align: center;
+}
+.language_section p,.language_section h3{text-align: center;}
+ }
+
+ @media (max-width: 576px){
+ 	.banner_orange img{
+ 		display: none;
+ 	}
+ 	.heading{text-align: center;}
+ 	.heading span{margin: auto;}
+ 	p{text-align: center;}
+ 	.who_we_are_section {
+    padding: 80px 0;
+}
+.what_we_do h3 {
+    font-size: 30px;
+}
+.what_we_do_bg{display: none;
+ }
+.attorney_section {
+    padding:80px 0 60px;
+}
+}
